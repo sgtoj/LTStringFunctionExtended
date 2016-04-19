@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\Development\Visual Studios\Projects\LTStringFunctionExtended\LTStringFunctionExtended\bin\Debug\LTStringFunctionExtended.dll
+C:\Users\Brian\OneDrive\Development\Visual Studios\Projects\LTStringFunctionExtended\LTStringFunctionExtended\bin\Debug\LTStringFunctionExtended.pdb
+C:\Users\Brian\OneDrive\Development\Visual Studios\Projects\LTStringFunctionExtended\LTStringFunctionExtended\bin\Debug\Interfaces.dll
+C:\Users\Brian\OneDrive\Development\Visual Studios\Projects\LTStringFunctionExtended\LTStringFunctionExtended\obj\Debug\LTStringFunctionExtended.csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\Development\Visual Studios\Projects\LTStringFunctionExtended\LTStringFunctionExtended\obj\Debug\LTStringFunctionExtended.dll
+C:\Users\Brian\OneDrive\Development\Visual Studios\Projects\LTStringFunctionExtended\LTStringFunctionExtended\obj\Debug\LTStringFunctionExtended.pdb
