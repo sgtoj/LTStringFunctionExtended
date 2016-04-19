@@ -16,7 +16,7 @@ Trims the whitespaces and returns the length the of a string.
 
 
 #Importing the Plugin
-1. Download the [Plugin](./bin/Release/LTStringFunctionExtended.dll?raw=true) (ie DLL)
+1. Download the [Plugin](./LTStringFunctionExtended/bin/Release/LTStringFunctionExtended.dll?raw=true) (ie DLL)
 1. Control Center > Tools > Plugin > Import Plugin
 2. Navigate to and select the `LTStringFunctionExtended.dll` file.
 3. Bounce the DBAgent service on the server.
